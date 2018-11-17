@@ -1,4 +1,4 @@
-- Brian Watts @bwatts
+- Bryan Watts @bwatts
 - Damian Hickey @damian
 - Mat McLoughlin @mat-mcloughlin
 - Yves Reynout @yreynhout
