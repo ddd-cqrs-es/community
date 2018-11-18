@@ -3,4 +3,4 @@ Please reach out to any of our moderators for any conduct compaints or any other
 - Bryan Watts @bwatts
 - Damian Hickey @damian
 - Mat McLoughlin @mat-mcloughlin
-- Yves Reynout @yreynhout
+- Yves Reynhout @yreynhout
