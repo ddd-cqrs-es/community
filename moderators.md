@@ -1,4 +1,4 @@
-Please reach out to any of our moderators for any conduct compaints or any other topics related to our community.
+Please reach out to any of our moderators for any conduct complaints or any other topics related to our community.
 
 - [Bryan Watts @bwatts](https://github.com/bwatts)
 - [Damian Hickey @damian](https://github.com/damian)
