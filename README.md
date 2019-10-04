@@ -1,7 +1,7 @@
 # slack-community
 
-Informations related to https://ddd-cqrs-es.slack.com
+Information related to https://ddd-cqrs-es.slack.com
 
- - [Signup link](https://t.co/MRxpx0rLH2)
+ - [Signup link](https://j.mp/ddd-es-cqrs)
  - [Code of Conduct](code-of-conduct.md)
  - [Community Moderators](moderators.md)
