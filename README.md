@@ -1,4 +1,4 @@
-# slack-community
+# Community
 
 
 We're moving the community to Discord for a variety of reasons.
