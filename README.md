@@ -6,7 +6,7 @@ We're moving the community to Discord for a variety of reasons.
 Join the server here: https://discord.gg/sEZGSHNNbH
 The decommission plan:
 * [x] This announcement
-* [ ] Sept 1st 2022: start deleting channels.
+* [x] Sept 1st 2022: start deleting channels.
 * [ ] End of year 2022: delete the slack workspace
 
 Note: there will be no retention of data of any kind - messages, member lists, email addresses etc.
